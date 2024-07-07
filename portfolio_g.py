@@ -31,8 +31,8 @@ Car Counter
 Object Detection
 Smart Attendance System
 Social Media:
-instagram-gaurav.tewari2604
-linkedin-Gaurav Tewari
+instagram id-gaurav.tewari2604
+linkedin id-Gaurav Tewari
 Gaurav Tiwari is a dedicated and ambitious student with a balance of academic excellence and extracurricular prowess. His projects demonstrate his passion for AI/ML and his capability to apply theoretical knowledge to practical applications. """
 st.title("Tiwari AI Bot")
 user_question=st.text_input("Ask Anything About Me")
