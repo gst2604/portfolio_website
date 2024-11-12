@@ -15,9 +15,9 @@ st.title(" ")
 persona="""Name: Gaurav Tiwari
 Current Education: B.Tech in Computer Science and Engineering
 University: Graphic Era Hill University, Bhimtal
-CGPA: 8.08
+CGPA: 8.2
 Location: Kathgodam, Nainital, Haldwani, India
-
+year:3rd
 Interests and Skills:
 
 Proficient in outdoor games
@@ -30,6 +30,7 @@ Plate Recognition
 Car Counter
 Object Detection
 Smart Attendance System
+ocr and document search web application
 Social Media:
 instagram id-gaurav.tewari2604
 linkedin id-Gaurav Tewari
