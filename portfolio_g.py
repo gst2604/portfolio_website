@@ -8,7 +8,7 @@ col1,col2=st.columns(2)
 with col1:
     st.subheader("Namaste :pray:")
     st.title("B.TECH(CSE) Student")
-    st.title("I'M Gaurav Tiwari from Graphic Era Hill University Bhimtal")
+    st.title("I'M Gaurav Tiwari from Graphic Era Hill University Bhimtal Campus")
 with col2:
     st.image("images/g.jpg")
 st.title(" ")
@@ -23,6 +23,12 @@ Interests and Skills:
 Proficient in outdoor games
 Strong academic performance
 Aspiring AI/ML engineer
+
+Achievement:
+NSS volunteer
+Placement Co-ordinator
+silver medalist (NPTEL)
+
 Projects:
 
 Hand Sign Detection
