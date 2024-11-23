@@ -8,7 +8,7 @@ col1,col2=st.columns(2)
 with col1:
     st.subheader("Namaste :pray:")
     st.title("B.TECH(CSE) Student")
-    st.title("I'M Gaurav Tiwari from Graphic Era Hill University Bhimtal Campus")
+    st.title("I'M Gaurav Tiwari from Graphic Era Hill University BhimtalCampus")
 with col2:
     st.image("images/g.jpg")
 st.title(" ")
