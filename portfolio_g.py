@@ -26,7 +26,8 @@ Aspiring AI/ML engineer
 
 Achievement:
 NSS volunteer
-Placement Co-ordinator
+completed an internship at ARIES(Aryabhatta Research Institute of Observational Sciences)
+Placement Head
 silver medalist (NPTEL)
 
 Projects:
@@ -37,6 +38,9 @@ Car Counter
 Object Detection
 Smart Attendance System
 ocr and document search web application
+multi_user_chat_application
+compiler
+
 Social Media:
 instagram id-gaurav.tewari2604
 linkedin id-Gaurav Tewari
